@@ -1,4 +1,4 @@
-*  Comecei esse pojeto no dia 27/03/2024 até o dia 03/04/2024, dedicando em torno duas horas por dia nele.*
+*  Comecei esse pojeto no dia 27/03/2024 até o dia 03/04/2024, dedicando em torno duas horas por dia nele.
 # Projeto CEP
 
 ## Como compilar e executar o backend e frontend.
